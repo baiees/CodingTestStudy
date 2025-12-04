@@ -2,3 +2,15 @@
 |:---:|:---:|:---|:---|:---:|
 | 25.12.03 | 문자열 | [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932) <br> [문자열 반복](https://www.acmicpc.net/problem/2675) <br> [다이얼](https://www.acmicpc.net/problem/5622) <br> [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) <br> [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930) <br>[3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) <br>[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) <br>[문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916) <br>[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) <br>[문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918) <br>[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) <br>[N진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) <br>| Lv.1 <br> 브론즈2 <br> 브론즈2 <br> Lv.1 <br> Lv.1 <br> Lv.1 <br> Lv.2 <br> Lv.1 <br> Lv.1 <br>  Lv.1 <br> Lv.1 <br> Lv.2 | <br><br><br><br> |
 | 25.12.04 | 배열 | [평균](https://www.acmicpc.net/problem/1546) <br> [최대값](https://www.acmicpc.net/problem/2566) <br> [이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125) <br> [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) <br> [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807) | 브론즈1 <br> 브론즈3 <br> Lv.1 <br> Lv.2 <br> Lv.2| <br><br><br>O<br>O |
+| 25.12.05 | 배열응용 | [구간 합 구하기4](https://www.acmicpc.net/problem/11659) <br> [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) <br> [수들의 합 5](https://www.acmicpc.net/problem/2018) <br>  [주몽](https://www.acmicpc.net/problem/1940) <br> [좋다](https://www.acmicpc.net/problem/1253)| 실버3 <br> 실버1 <br> 실버5 <br> 실버4 <br> 골드5| <br>O<br><br><br>O |
+
+## 📅진도
+
+| Sun | Mon | Tue | Wed | Thu   | Fri | Sat |
+| --- | --- | --- | --- | ----- | --- | --- |
+|     |     |     |     | 4<br> 배열 | 5 <br> 배열 응용  | 6 <br>  |
+| 7 <br>  | 8  <br>해시 | 9 <br>스택   | 10 <br>큐  | 11 <br>   | 12<br>  | 13 <br> |
+| 14 <br>  | 15 <br>  | 16 <br> | 17 <br> | 18  <br>  | 19 <br> | 20 <br> |
+| 21 <br> | 22 <br> | 23 <br> | 24 <br> | 25🎄 <br> | 26 <br> | 27 <br> |
+| 28 <br> | 29 <br> | 30 <br> | 31 <br>  |       |     |     |
+
