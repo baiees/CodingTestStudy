@@ -15,7 +15,7 @@ class Solution {
 
 	        // 3.  for문
 	        for (int i = 0; i < parts.length; i++) {
-	            if (parts[i].equals("")) continue;
+	            if (parts[i].equals("")) continue; // 000 일경우 빈칸이 나온다
 
 	            long num = Long.parseLong(parts[i]); // long으로 안전 파싱 안할 경우 너무 길어져서 에러 뜸 .
 	            if (isPrime(num)) {
@@ -32,7 +32,7 @@ class Solution {
 	        if (x == 2) return true;       // 2인 경우만 나눠서 받음 짝수인 유일한 소수
 	        if (x % 2 == 0) return false;
 
-	        for (long i = 3; i * i <= x; i += 2) {
+	        for (long i = 3; i * i <= x; i += 2) { 
 	            if (x % i == 0) return false;
 	        }
 	        return true;
